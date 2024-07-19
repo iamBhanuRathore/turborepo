@@ -3,7 +3,8 @@
     "version": "0.0.0",
     "private": true,
     "exports": {
-        ".": "./tailwind.config.ts"
+        "./tailwind.config.ts": "./tailwind.config.ts",
+        "./postcss.config.js": "./postcss.config.js"
     },
     "devDependencies": {
         "@repo/typescript-config": "*",
