@@ -1,6 +1,6 @@
 "use client";
 
-import { cn } from "lib/utils";
+import { cn } from "@repo/ui/src/lib/utils";
 import { ReactNode } from "react";
 
 interface ButtonProps {
